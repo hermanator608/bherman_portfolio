@@ -1,12 +1,16 @@
 export const typewriterPhrases = [
   'Fullstack Software Engineer',
   'Soccer Player',
-  'Dog Enthusiast',
+  'Learner',
+  'Pro Frisbee Thrower',
   'Backend Software Engineer',
   'Video Game Player',
-  'Frontend Softeware Engineer',
-  'Traveler',
-  'Builder',
   'DIYer',
-  'Learner'
+  'Patch Notes Reader',
+  'Frontend Software Engineer',
+  'Warlock main in World of Warcraft',
+  'Builder',
+  'Professional Debugger',
+  'Dungeon Crawler',
+  'Refactor in Progress'
 ];
